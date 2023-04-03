@@ -1,0 +1,53 @@
+h1 {
+  background-color: #fdf8f8;
+  text-align: center;
+  font-weight: bold;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.color {
+  color: grey;
+}
+
+.size {
+  font-size: xx-large;
+}
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.border {
+  border-radius: 0%;
+  border-color: black;
+}
+
+.link {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  font-size: x-large;
+}
+
+button:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+.border {
+  background: transparent;
+  border: 6px solid #080808;
+}
